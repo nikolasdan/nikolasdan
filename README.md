@@ -13,7 +13,7 @@
 
 
  <br/>
-<h1> Tools 🛠️ </h1>
+<h1> Tools I use 🛠️ </h1>
 <div>
 <img alt="JS" src="https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
