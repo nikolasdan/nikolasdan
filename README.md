@@ -21,7 +21,7 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white"
+<img alt="Arch" src="https://img.shields.io/badge/-Archlinux-blue?style=for-the-badge&logo=Archlinux&logoColor=white"
 </div>
 
 
