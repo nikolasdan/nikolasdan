@@ -22,9 +22,11 @@
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img lat="Flask" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
+<img lat="Flutter" src="https://img.shields.io/badge/Flutter-1793D1?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img lat="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </div>
 
 <br/>
