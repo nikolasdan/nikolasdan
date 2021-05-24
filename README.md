@@ -6,10 +6,10 @@
  <h2>My stats 🖥</h2>
  
  
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=nikolasdan&show_icons=true&theme=great-gatsby" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=nikolasdan&show_icons=true&theme=algolia" />
 
 
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasdan&layout=compact&theme=great-gatsby"/>
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasdan&layout=compact&theme=algolia"/>
 
 
  <br/>
