@@ -29,11 +29,5 @@
 
 </div>
 
-<br/>
-<h1>Current specs🖥</h1>
-<div>
-<img alt="AMD" src="https://img.shields.io/badge/AMD-A10_7800B-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img alt="AMD" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-</div>
 
 
