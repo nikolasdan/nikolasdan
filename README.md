@@ -6,7 +6,7 @@
  <h2>My stats 🖥</h2>
  
  
-< alt="" src="https://github-readme-stats.vercel.app/api?username=nikolasdan&show_icons=true&theme=dark" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=nikolasdan&show_icons=true&theme=dark&count_private=true" />
 
 
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasdan&layout=compact&theme=dark"/>
