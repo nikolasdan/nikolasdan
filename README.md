@@ -1,9 +1,8 @@
-<h1>Hi!</h1>
+<h1>Hello there! 👋</h1>
 <h3><code>$ whoami</code></h3>
-  <h4>My name is Nikolas and I'm 18</h4>
-  <h4>And I'm in love with Linux🐧</h4>
+  <h4>My name is Nikolas and I'm a FullStack Developer</h4>
   
- <h2>My stats 🖥</h2>
+ <h2>My stats 👨🏻‍💻</h2>
  
  
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=nikolasdan&show_icons=true&theme=dark&count_private=true" />
