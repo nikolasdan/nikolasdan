@@ -14,7 +14,7 @@
 <img lat="Flask" src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
 <img lat="Flutter" src="https://img.shields.io/badge/Flutter-1793D1?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img lat="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img lat="NextJS" src="https://img.shields.io/badge/NextJS?style=for-the-badge&logo=next.js&logoColor=black"/>
+<img lat="NextJS" src="https://img.shields.io/badge/NextJS?style=for-the-badge&logo=next&logoColor=black"/>
 </div>
 
 
